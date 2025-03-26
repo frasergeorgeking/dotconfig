@@ -1,0 +1,8 @@
+font-family = CaskaydiaMono Nerd Font Mono
+background = 1b2029
+background-opacity = 0.9
+background-blur-radius = 20
+cursor-color = cd5e42
+
+custom-shader = ~/.config/ghostty/shaders/bloom.glsl
+custom-shader-animation = true
